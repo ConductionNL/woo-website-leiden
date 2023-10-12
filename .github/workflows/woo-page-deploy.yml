@@ -15,7 +15,7 @@ env: # Change these to your preferences any image url can also be a base encoded
   JUMBOTRON_IMAGE_URL: "https://gemeente.leiden.nl/middelen/user-upload/sterrenwacht-en-boot-op-wittesingel-van-hielco-kuipers.jpg"
   FOOTER_LOGO_URL: "https://gemeente.leiden.nl/typo3conf/ext/leiden_template/Resources/Public/Images/logo_leiden.svg"
   FOOTER_LOGO_HREF: "https://gemeente.leiden.nl/"
-  FOOTER_CONTENT: '[{"title":"Algemeen","items":[{"label":"Website","value":"https://gemeente.leiden.nl/","link":"https://gemeente.leiden.nl/"}]},{"title":"Contact","items":[{"label":"Phone number","value":"14 071","link":"tel:14071"},{"label":"Address","value":"Bargelaan 190"},{"label":"Contact en openingstijden","value":"Contact en openingstijden","link":"https://gemeente.leiden.nl/contact-en-openingstijden/"}]}]'
+  FOOTER_CONTENT: '[{"title":"Algemeen","items":[{"label":"Website","value":"https://gemeente.leiden.nl/","link":"https://gemeente.leiden.nl/"},{"label":"Privacy","value":"Privacy","link":"https://gemeente.leiden.nl/"},{"label":"Toegankelijkheid","value":"Toegangelijkheid","link":"https://accessibe.com/accessscan?website=https://conductionnl.github.io/${{ github.event.repository.name }}/"},{"label":"Over deze website","value":"Over deze website","link":"https://gemeente.leiden.nl/"}]},{"title":"Contact","items":[{"label":"Phone number","value":"14 071","link":"tel:14071"},{"label":"Address","value":"Bargelaan 190"},{"label":"Contact en openingstijden","value":"Contact en openingstijden","link":"https://gemeente.leiden.nl/contact-en-openingstijden/"}]}]'
   OIDN_NUMBER: " "
 
 on:
