@@ -1,0 +1,46 @@
+[
+    {
+        "title": "Algemeen",
+        "items": [
+            {
+                "label": "Website",
+                "value": "https://gemeente.leiden.nl/",
+                "link": "https://gemeente.leiden.nl/"
+            },
+            {
+              
+                "value": "Privacy",
+                "link": "https://gemeente.leiden.nl/privacy"
+            },
+            {
+              
+                "value": "Toegankelijkheid",
+                "link": "https://accessibe.com/accessscan?website=https://conductionnl.github.io/${{ github.event.repository.name }}/"
+            },
+            {
+                
+                "value": "Over deze website",
+                "link": "https://gemeente.leiden.nl/"
+            }
+        ]
+    },
+    {
+        "title": "Contact",
+        "items": [
+            {
+                "label": "Phone number",
+                "value": "14 071",
+                "link": "tel:14071"
+            },
+            {
+                "label": "Address",
+                "value": "Bargelaan 190"
+            },
+            {
+                
+                "value": "Contact en openingstijden",
+                "link": "https://gemeente.leiden.nl/contact-en-openingstijden/"
+            }
+        ]
+    }
+]
