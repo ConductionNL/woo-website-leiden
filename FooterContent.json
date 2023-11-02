@@ -4,7 +4,7 @@
     "items": [
       {
         "ariaLabel": "Website",
-        "value": "https://gemeente.leiden.nl/",
+        "value": "www.gemeente.leiden.nl/",
         "link": "https://gemeente.leiden.nl/",
         "icon": { "prefix": "fas", "icon": "globe", "placement": "left" }
       },
